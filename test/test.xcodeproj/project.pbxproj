@@ -16,6 +16,7 @@
 		595889E829D2F0C20014F8A9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 595889E729D2F0C20014F8A9 /* main.m */; };
 		595889F029D2F1600014F8A9 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 595889EF29D2F1600014F8A9 /* Student.m */; };
 		595889F329D2F1740014F8A9 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = 595889F229D2F1740014F8A9 /* Book.m */; };
+		595889F929D2F4B90014F8A9 /* School.m in Sources */ = {isa = PBXBuildFile; fileRef = 595889F829D2F4B90014F8A9 /* School.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,8 @@
 		595889EF29D2F1600014F8A9 /* Student.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 		595889F129D2F1740014F8A9 /* Book.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
 		595889F229D2F1740014F8A9 /* Book.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
+		595889F729D2F4B90014F8A9 /* School.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = School.h; sourceTree = "<group>"; };
+		595889F829D2F4B90014F8A9 /* School.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = School.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,8 @@
 				595889EF29D2F1600014F8A9 /* Student.m */,
 				595889F129D2F1740014F8A9 /* Book.h */,
 				595889F229D2F1740014F8A9 /* Book.m */,
+				595889F729D2F4B90014F8A9 /* School.h */,
+				595889F829D2F4B90014F8A9 /* School.m */,
 				595889DE29D2F0C00014F8A9 /* Main.storyboard */,
 				595889E129D2F0C20014F8A9 /* Assets.xcassets */,
 				595889E329D2F0C20014F8A9 /* LaunchScreen.storyboard */,
@@ -159,6 +164,7 @@
 				595889DD29D2F0C00014F8A9 /* ViewController.m in Sources */,
 				595889D729D2F0BF0014F8A9 /* AppDelegate.m in Sources */,
 				595889F029D2F1600014F8A9 /* Student.m in Sources */,
+				595889F929D2F4B90014F8A9 /* School.m in Sources */,
 				595889E829D2F0C20014F8A9 /* main.m in Sources */,
 				595889F329D2F1740014F8A9 /* Book.m in Sources */,
 				595889DA29D2F0C00014F8A9 /* SceneDelegate.m in Sources */,
