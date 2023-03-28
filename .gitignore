@@ -1,2 +1,8 @@
 # Ignore Xcode User Interface State file
 *.xcuserstate
+
+*/*.xcuserstate
+
+test/test.xcodeproj/project.xcworkspace/xcuserdata/yuanxinliang.xcuserdatad/UserInterfaceState.xcuserstate
+
+./test/test.xcodeproj/project.xcworkspace/xcuserdata/yuanxinliang.xcuserdatad/UserInterfaceState.xcuserstate
