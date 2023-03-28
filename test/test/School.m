@@ -9,4 +9,8 @@
 
 @implementation School
 
+- (void)call {
+    
+}
+
 @end
