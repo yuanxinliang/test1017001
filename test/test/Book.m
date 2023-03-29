@@ -18,7 +18,7 @@
 @implementation Book
 
 - (void)sele {
-    NSLog(@"这是一本%@的书，可以卖%.2lf元", self.name, self.price);
+    NSLog(@"这是一本%@的书，可以卖 %.2lf元", self.name, self.price);
 }
 
 @end
